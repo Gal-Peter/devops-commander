@@ -1,0 +1,13 @@
+{
+  "name": "devops-terminal-commander",
+  "version": "1.0.0",
+  "description": "An automated cross-platform desktop UI command injector for DevOps engineers.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
