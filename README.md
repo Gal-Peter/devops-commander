@@ -1,3 +1,4 @@
+<img width="2609" height="1855" alt="DTC_Exec_Disp" src="https://github.com/user-attachments/assets/eebc98c9-08e3-4dac-af66-5c06c50319a9" />
 # DevOps Terminal Commander
 
 An enterprise-grade, secure, cross-platform desktop automation utility built with a decoupled two-process sandboxed container architecture. This application provides DevOps and Platform Engineers with an instant, interactive dashboard console that catalogs mission-critical terminal commands (`Linux OS`, `Git CLI`, `Docker Runtime`, and `Kubernetes Cluster APIs`) and injects tokenized parameter layouts straight into the native machine operating system shell without requiring manual user copy-paste loops.
