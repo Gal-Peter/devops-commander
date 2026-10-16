@@ -51,8 +51,8 @@ Clone the repository and test the automated desktop tool layout inside your sand
 
 ```bash
 # 1. Pull down the repository tree
-git clone https://github.com
-cd devops-terminal-commander
+git clone https://github.com/Gal-Peter/devops-commander
+cd devops-commander
 
 # 2. Download and lock down the local Electron development binaries
 npm install
